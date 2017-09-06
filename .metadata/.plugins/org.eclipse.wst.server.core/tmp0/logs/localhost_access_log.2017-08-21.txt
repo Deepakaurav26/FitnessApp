@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Aug/2017:16:55:00 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Aug/2017:16:55:05 +0530] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [21/Aug/2017:16:55:05 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [21/Aug/2017:16:55:43 +0530] "GET /FitnessTracker/WEB-INF/web.xml HTTP/1.1" 404 949
+127.0.0.1 - - [21/Aug/2017:17:00:08 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Aug/2017:17:00:09 +0530] "GET /FitnessTracker/WEB-INF/classes/com/pluralsight/model/Activity.java HTTP/1.1" 404 949

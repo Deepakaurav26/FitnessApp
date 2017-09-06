@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:45 +0530] "GET /FitnessTracker/ HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:45 +0530] "GET /FitnessTracker/assets/css/bootstrap.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:45 +0530] "GET /FitnessTracker/assets/css/bootstrap-responsive.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:45 +0530] "GET /FitnessTracker/assets/js/bootstrap.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:45 +0530] "GET /FitnessTracker/jquery-1.8.3.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:56:57 +0530] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:57:01 +0530] "GET /FitnessTracker/addGoal.html HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [23/Aug/2017:19:57:07 +0530] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 404 949

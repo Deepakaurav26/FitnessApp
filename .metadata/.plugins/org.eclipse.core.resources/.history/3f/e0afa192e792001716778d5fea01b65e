@@ -1,0 +1,19 @@
+package com;
+
+public class ExceptionConcept {
+
+	static ExceptionConcept ExceptionConcept;
+
+	public static void main(String[] args) {
+
+		//ExceptionConcept.m2();
+try {
+	
+}
+catch{
+
+}
+	}
+
+
+}

@@ -1,0 +1,21 @@
+package com;
+
+public class ExceptionConcept {
+
+	static ExceptionConcept ExceptionConcept;
+
+	public static void main(String[] args) {
+
+		ExceptionConcept.m1();
+
+	}
+
+	void m1() {
+
+		String s = null;
+		int i = 100 / 0;
+		//System.out.println(s.length());
+		System.out.println(i);
+
+	}
+}

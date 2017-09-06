@@ -1,0 +1,9 @@
+package com;
+
+public class ExceptionConcept {
+
+	String s = null;
+	
+	System.out.println("s.length()");
+	
+}
